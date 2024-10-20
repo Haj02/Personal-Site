@@ -1,2 +1,2 @@
 # Personal-Site
-2nd Capstone project for udemy webdev course
+2nd capstone project for udemy webdev course
